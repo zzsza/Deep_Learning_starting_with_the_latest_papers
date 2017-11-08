@@ -21,4 +21,4 @@
 
 
 ## [Convolutional Neural Network(CNN)을 이용한 Application](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/tree/master/Lecture_Note/03.%20CNN%20Application)
-- [[실습] Multi layer Perceptron(MLP)로 숫자 분류기 구현하기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/01.%20Numeric%20classifier%20using%20Multilayer%20Perceptron(MLP).ipynb)
+- [[실습] Multi layer Perceptron(MLP)로 숫자 분류기 구현하기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/01.%20Numeric%20classifier%20using%20Multilayer%20Perceptron(MLP)%20.ipynb)
