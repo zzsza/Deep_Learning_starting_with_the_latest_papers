@@ -22,3 +22,12 @@
 
 ## [Convolutional Neural Network(CNN)을 이용한 Application](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/tree/master/Lecture_Note/03.%20CNN%20Application)
 - [[실습] Multi layer Perceptron(MLP)로 숫자 분류기 구현하기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/01.%20Numeric%20classifier%20using%20Multilayer%20Perceptron(MLP)%20.ipynb)
+- [[실습] Custom dataset 만들어보기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/02.Custom-Dataset.ipynb)
+- [이미지의 각 픽셀을 분류하는 Semantic Segmentation](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/03.Semantic-Segmentation.md)
+- [[실습] Convolutional Neural Network(CNN)으로 숫자 분류기 구현하기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/04.cnn_mnist.ipynb)
+- [Residual Network가 왜 잘 되는지 해석해보기](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/07.Residual-Network.md)
+- [Weakly Supervised Localization](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/08.Weakly-Supervised-Localization.md)
+- [Image Detection 방법론: RCNN, SPPnet, FastRCNN, FasterRCNN](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/09.Image-Detection(1).md)
+- [Image Detection 방법론: AttentionNet, SSD, YOLO, YOLOv2](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/10.Image-Detection(2).md)
+- [이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/11.Visual-QnA.md)
+- [이미지를 설명하는 문장을 만들어내는 Image Captioning](https://github.com/zzsza/Deep_Learning_starting_with_the_latest_papers/blob/master/Lecture_Note/03.%20CNN%20Application/12.Image-Captioning.md)
